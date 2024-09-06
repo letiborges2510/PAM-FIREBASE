@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488387962677",
+    "project_id": "atividade-firebase-7aa99",
+    "storage_bucket": "atividade-firebase-7aa99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488387962677:android:6eebd4b8d417738dab4e7c",
+        "android_client_info": {
+          "package_name": "com.example.atividade_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNuGqfFLD9EdweTXnFW1LCIucdzhI15uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
